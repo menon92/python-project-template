@@ -1,7 +1,41 @@
-# 
+# Python project template
+This repository contain basic structe that may follow for any kinds of python projects
+
+## Project structure
+```bash
+python-project-template/
+├── Doc
+│   └── documentation.md
+├── examples
+│   ├── hello.py
+│   └── __init__.py
+├── projectname
+│   ├── audio
+│   │   ├── __init__.py
+│   │   └── read_audio.py
+│   ├── bar.py
+│   ├── foo.py
+│   ├── __init__.py
+│   └── utils
+│       ├── grok.py
+│       ├── __init__.py
+│       └── spam.py
+├── README.md
+└── tests
+    ├── __init__.py
+    ├── test_bar.py
+    ├── test_foo.py
+    └── test_read_audio.py
+```
 
 ## To test bar.py
 `python -m tests.test_bar`
 
-## to test foo.py
+## To test foo.py
 `python -m tests.test_foo`
+
+## To run examples
+`python -m examples.hello`
+
+## To test audio
+`python -m tests.test_read_audio`
