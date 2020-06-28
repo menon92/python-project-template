@@ -1,4 +1,4 @@
-# Python project template
+# Python Project Template
 This repository contain basic structure that may follow for any kinds of python projects
 
 ## Project structure
