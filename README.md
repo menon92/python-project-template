@@ -1,5 +1,5 @@
 # Python project template
-This repository contain basic structe that may follow for any kinds of python projects
+This repository contain basic structure that may follow for any kinds of python projects
 
 ## Project structure
 ```bash
