@@ -28,6 +28,9 @@ python-project-template/
     └── test_read_audio.py
 ```
 
+## How to run any module 
+You can run any module from `python-project-template` directory
+
 ## To test bar.py
 `python -m tests.test_bar`
 
